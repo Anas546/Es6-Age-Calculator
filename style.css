@@ -1,0 +1,48 @@
+*{
+
+    /* background-image: linear-gradient(#6acbe0, #6859ea); */
+}
+.container{
+    /* border: 2px solid black; */
+}
+.container>.input-box{
+background-color: antiquewhite;
+height: 20em;
+width: 35em;
+margin: auto;
+}
+.input-box>h1{
+    /* display: inline-block; */
+    font-size: 3em;
+    margin: 1em 0 0.9em 0;
+    padding: 0 0 0 1em ;
+    background-color: #fff;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.input-box>h3{
+    font-size: 1.7em;
+    margin-bottom: 1.2em;
+    padding: 0 0 0 3em ;
+}
+#age{
+    font-size: 1.4em;
+    margin-top: 1em;
+    margin-left: -1em;
+    font-family:   sans-serif
+}
+.input-box> input{
+    margin: 0 0 0 5em ;
+    border-radius:0.4em;
+    box-shadow: 0.1em 0.1em 0.2em 0.2em #ffc107a6 ;
+    background-color: #fff;
+
+}
+.input-box> #btn{
+    margin: 0 0 0 2em ;
+    border-radius:0.4em;
+    box-shadow: 0.1em 0.1em 0.1em 0.2em #ffc107a6;
+    background-color: #fff;
+}
+span{
+    color: #ffc107;
+}
